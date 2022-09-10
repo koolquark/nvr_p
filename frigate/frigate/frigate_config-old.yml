@@ -1,0 +1,67 @@
+cameras:
+  frontyard:
+    ffmpeg:
+      inputs:
+        - path: rtsp://nandanam:9481940333@192.168.0.2/stream1
+          roles:
+            - record
+            - rtmp
+            - detect
+    width: 2304
+    height: 1296
+    fps: 5
+    # motion:
+    #   mask:
+    #     # Ignores the Timestamp from UVC Cameras
+    #     - 0,0,345,0,345,45,0,45
+    #     # That bush I don't like that gives false positives.
+    #     - 554,529,416,618,381,717,570,760,722,666,724,480,641,383,537,440
+    # zones:
+      # frontyard_frontdoor:
+      #   coordinates: 36,292,161,300,407,458,484,531,432,693,91,758
+      # frontyard_driveway:
+      #   coordinates: 753,326,1295,390,1454,458,183,516,167,256
+    objects:
+      track:
+        - person
+        - dog
+        - cat
+        - car
+        - bicycle
+        - bus
+    snapshots:
+      enabled: True
+      timestamp: False
+      bounding_box: true
+      retain:
+        default: 3
+    record:
+      enabled: True
+      # retain_days: 30
+  # Front Yard End
+mqtt:
+  host: mqtt
+  topic_prefix: frigate
+  client_id: frigate
+  user: frigate
+  password: frigate
+detectors:
+  cpu1:
+    type: cpu
+    num_threads: 3
+  cpu2:
+    type: cpu
+    num_threads: 3
+# detectors:
+#   coral:
+#     type: edgetpu
+#     device: ""
+#     num_threads: 3
+ffmpeg:
+  hwaccel_args:
+    - -hwaccel
+    - vaapi
+    - -hwaccel_device
+    - /dev/dri/renderD128
+    - -hwaccel_output_format
+    - yuv420p

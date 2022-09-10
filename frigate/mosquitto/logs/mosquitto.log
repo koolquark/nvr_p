@@ -1,0 +1,257 @@
+1662699362: mosquitto version 2.0.15 starting
+1662699362: Config loaded from /mosquitto/config/mosquitto.conf.
+1662699362: Error: Unable to decode password for user frigate, removing entry.
+1662699362: Error: Unable to decode password for user amx, removing entry.
+1662699362: Opening ipv4 listen socket on port 1883.
+1662699362: Opening ipv6 listen socket on port 1883.
+1662699362: mosquitto version 2.0.15 running
+1662699385: mosquitto version 2.0.15 terminating
+1662699385: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662703517: mosquitto version 2.0.15 starting
+1662703517: Config loaded from /mosquitto/config/mosquitto.conf.
+1662703517: Error: Unable to decode password for user frigate, removing entry.
+1662703517: Error: Unable to decode password for user amx, removing entry.
+1662703517: Opening ipv4 listen socket on port 1883.
+1662703517: Opening ipv6 listen socket on port 1883.
+1662703517: mosquitto version 2.0.15 running
+1662703650: mosquitto version 2.0.15 terminating
+1662703650: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662703651: mosquitto version 2.0.15 starting
+1662703651: Config loaded from /mosquitto/config/mosquitto.conf.
+1662703651: Error: Unable to decode password for user frigate, removing entry.
+1662703651: Error: Unable to decode password for user amx, removing entry.
+1662703651: Opening ipv4 listen socket on port 1883.
+1662703651: Opening ipv6 listen socket on port 1883.
+1662703651: mosquitto version 2.0.15 running
+1662703695: mosquitto version 2.0.15 terminating
+1662703695: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662703745: mosquitto version 2.0.15 starting
+1662703745: Config loaded from /mosquitto/config/mosquitto.conf.
+1662703745: Error: Unable to decode password for user frigate, removing entry.
+1662703745: Error: Unable to decode password for user amx, removing entry.
+1662703745: Opening ipv4 listen socket on port 1883.
+1662703745: Opening ipv6 listen socket on port 1883.
+1662703745: mosquitto version 2.0.15 running
+1662703756: mosquitto version 2.0.15 terminating
+1662703756: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662703808: mosquitto version 2.0.15 starting
+1662703808: Config loaded from /mosquitto/config/mosquitto.conf.
+1662703808: Error: Unable to decode password for user frigate, removing entry.
+1662703808: Error: Unable to decode password for user amx, removing entry.
+1662703808: Opening ipv4 listen socket on port 1883.
+1662703808: Opening ipv6 listen socket on port 1883.
+1662703808: mosquitto version 2.0.15 running
+1662703826: mosquitto version 2.0.15 terminating
+1662703826: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662704055: mosquitto version 2.0.15 starting
+1662704055: Config loaded from /mosquitto/config/mosquitto.conf.
+1662704055: Error: Unable to decode password for user frigate, removing entry.
+1662704055: Error: Unable to decode password for user amx, removing entry.
+1662704055: Opening ipv4 listen socket on port 1883.
+1662704055: Opening ipv6 listen socket on port 1883.
+1662704055: mosquitto version 2.0.15 running
+1662704062: mosquitto version 2.0.15 terminating
+1662704062: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662704111: mosquitto version 2.0.15 starting
+1662704111: Config loaded from /mosquitto/config/mosquitto.conf.
+1662704111: Error: Unable to decode password for user frigate, removing entry.
+1662704111: Error: Unable to decode password for user amx, removing entry.
+1662704111: Opening ipv4 listen socket on port 1883.
+1662704111: Opening ipv6 listen socket on port 1883.
+1662704111: mosquitto version 2.0.15 running
+1662704429: mosquitto version 2.0.15 terminating
+1662704429: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662704431: mosquitto version 2.0.15 starting
+1662704431: Config loaded from /mosquitto/config/mosquitto.conf.
+1662704431: Error: Unable to decode password for user frigate, removing entry.
+1662704431: Error: Unable to decode password for user amx, removing entry.
+1662704431: Opening ipv4 listen socket on port 1883.
+1662704431: Opening ipv6 listen socket on port 1883.
+1662704431: mosquitto version 2.0.15 running
+1662704433: New connection from 172.21.0.3:45347 on port 1883.
+1662704433: Client frigate disconnected, not authorised.
+1662704434: New connection from 172.21.0.3:34769 on port 1883.
+1662704434: Client frigate disconnected, not authorised.
+1662704436: New connection from 172.21.0.3:38291 on port 1883.
+1662704436: Client frigate disconnected, not authorised.
+1662704440: New connection from 172.21.0.3:41697 on port 1883.
+1662704440: Client frigate disconnected, not authorised.
+1662704448: New connection from 172.21.0.3:39317 on port 1883.
+1662704448: Client frigate disconnected, not authorised.
+1662704464: New connection from 172.21.0.3:44181 on port 1883.
+1662704464: Client frigate disconnected, not authorised.
+1662704496: New connection from 172.21.0.3:39251 on port 1883.
+1662704496: Client frigate disconnected, not authorised.
+1662704560: New connection from 172.21.0.3:33169 on port 1883.
+1662704560: Client frigate disconnected, not authorised.
+1662704661: mosquitto version 2.0.15 terminating
+1662704661: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662704666: mosquitto version 2.0.15 starting
+1662704666: Config loaded from /mosquitto/config/mosquitto.conf.
+1662704666: Opening ipv4 listen socket on port 1883.
+1662704666: Opening ipv6 listen socket on port 1883.
+1662704666: mosquitto version 2.0.15 running
+1662704668: New connection from 172.22.0.3:54283 on port 1883.
+1662704668: New client connected from 172.22.0.3:54283 as frigate (p2, c1, k60, u'frigate').
+1662705741: Client frigate closed its connection.
+1662705745: mosquitto version 2.0.15 terminating
+1662705745: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662705759: mosquitto version 2.0.15 starting
+1662705759: Config loaded from /mosquitto/config/mosquitto.conf.
+1662705759: Opening ipv4 listen socket on port 1883.
+1662705759: Opening ipv6 listen socket on port 1883.
+1662705759: mosquitto version 2.0.15 running
+1662705760: New connection from 172.23.0.3:34481 on port 1883.
+1662705760: New client connected from 172.23.0.3:34481 as frigate (p2, c1, k60, u'frigate').
+1662707560: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662709361: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662711162: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662712963: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662714764: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662716565: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662718366: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662720167: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662721035: Client frigate closed its connection.
+1662721039: mosquitto version 2.0.15 terminating
+1662721039: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662721073: mosquitto version 2.0.15 starting
+1662721073: Config loaded from /mosquitto/config/mosquitto.conf.
+1662721073: Opening ipv4 listen socket on port 1883.
+1662721073: Opening ipv6 listen socket on port 1883.
+1662721073: mosquitto version 2.0.15 running
+1662721084: mosquitto version 2.0.15 terminating
+1662721084: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662721491: mosquitto version 2.0.15 starting
+1662721491: Config loaded from /mosquitto/config/mosquitto.conf.
+1662721491: Opening ipv4 listen socket on port 1883.
+1662721491: Opening ipv6 listen socket on port 1883.
+1662721491: mosquitto version 2.0.15 running
+1662721497: mosquitto version 2.0.15 terminating
+1662721497: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662721891: mosquitto version 2.0.15 starting
+1662721891: Config loaded from /mosquitto/config/mosquitto.conf.
+1662721891: Opening ipv4 listen socket on port 1883.
+1662721891: Opening ipv6 listen socket on port 1883.
+1662721891: mosquitto version 2.0.15 running
+1662721897: mosquitto version 2.0.15 terminating
+1662721897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662722760: mosquitto version 2.0.15 starting
+1662722760: Config loaded from /mosquitto/config/mosquitto.conf.
+1662722760: Opening ipv4 listen socket on port 1883.
+1662722760: Opening ipv6 listen socket on port 1883.
+1662722760: mosquitto version 2.0.15 running
+1662722773: mosquitto version 2.0.15 terminating
+1662722773: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662722898: mosquitto version 2.0.15 starting
+1662722898: Config loaded from /mosquitto/config/mosquitto.conf.
+1662722898: Opening ipv4 listen socket on port 1883.
+1662722898: Opening ipv6 listen socket on port 1883.
+1662722898: mosquitto version 2.0.15 running
+1662722900: New connection from 172.28.0.3:57119 on port 1883.
+1662722900: New client connected from 172.28.0.3:57119 as frigate (p2, c1, k60, u'frigate').
+1662723074: Client frigate closed its connection.
+1662723078: mosquitto version 2.0.15 terminating
+1662723078: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662723093: mosquitto version 2.0.15 starting
+1662723093: Config loaded from /mosquitto/config/mosquitto.conf.
+1662723093: Opening ipv4 listen socket on port 1883.
+1662723093: Opening ipv6 listen socket on port 1883.
+1662723093: mosquitto version 2.0.15 running
+1662723095: New connection from 172.29.0.3:46359 on port 1883.
+1662723095: New client connected from 172.29.0.3:46359 as frigate (p2, c1, k60, u'frigate').
+1662723100: Client frigate closed its connection.
+1662723104: mosquitto version 2.0.15 terminating
+1662723104: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662723150: mosquitto version 2.0.15 starting
+1662723150: Config loaded from /mosquitto/config/mosquitto.conf.
+1662723150: Opening ipv4 listen socket on port 1883.
+1662723150: Opening ipv6 listen socket on port 1883.
+1662723150: mosquitto version 2.0.15 running
+1662723152: New connection from 172.30.0.3:55233 on port 1883.
+1662723152: New client connected from 172.30.0.3:55233 as frigate (p2, c1, k60, u'frigate').
+1662724333: Client frigate closed its connection.
+1662724337: mosquitto version 2.0.15 terminating
+1662724337: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662724341: mosquitto version 2.0.15 starting
+1662724341: Config loaded from /mosquitto/config/mosquitto.conf.
+1662724341: Opening ipv4 listen socket on port 1883.
+1662724341: Opening ipv6 listen socket on port 1883.
+1662724341: mosquitto version 2.0.15 running
+1662724343: New connection from 172.31.0.3:45613 on port 1883.
+1662724343: New client connected from 172.31.0.3:45613 as frigate (p2, c1, k60, u'frigate').
+1662724542: Client frigate closed its connection.
+1662724546: mosquitto version 2.0.15 terminating
+1662724546: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662724550: mosquitto version 2.0.15 starting
+1662724550: Config loaded from /mosquitto/config/mosquitto.conf.
+1662724550: Opening ipv4 listen socket on port 1883.
+1662724550: Opening ipv6 listen socket on port 1883.
+1662724550: mosquitto version 2.0.15 running
+1662724552: New connection from 192.168.16.3:42425 on port 1883.
+1662724552: New client connected from 192.168.16.3:42425 as frigate (p2, c1, k60, u'frigate').
+1662724722: Client frigate closed its connection.
+1662724726: mosquitto version 2.0.15 terminating
+1662724726: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662724730: mosquitto version 2.0.15 starting
+1662724730: Config loaded from /mosquitto/config/mosquitto.conf.
+1662724730: Opening ipv4 listen socket on port 1883.
+1662724730: Opening ipv6 listen socket on port 1883.
+1662724730: mosquitto version 2.0.15 running
+1662724732: New connection from 192.168.32.3:51873 on port 1883.
+1662724732: New client connected from 192.168.32.3:51873 as frigate (p2, c1, k60, u'frigate').
+1662725108: Client frigate closed its connection.
+1662725112: mosquitto version 2.0.15 terminating
+1662725112: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662725118: mosquitto version 2.0.15 starting
+1662725118: Config loaded from /mosquitto/config/mosquitto.conf.
+1662725118: Opening ipv4 listen socket on port 1883.
+1662725118: Opening ipv6 listen socket on port 1883.
+1662725118: mosquitto version 2.0.15 running
+1662725119: New connection from 192.168.48.3:56585 on port 1883.
+1662725119: New client connected from 192.168.48.3:56585 as frigate (p2, c1, k60, u'frigate').
+1662726919: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662728720: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662730521: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662732322: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662734123: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662735924: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662737725: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662739526: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662741327: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662743128: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662743241: Client frigate closed its connection.
+1662743245: mosquitto version 2.0.15 terminating
+1662743245: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662743255: mosquitto version 2.0.15 starting
+1662743255: Config loaded from /mosquitto/config/mosquitto.conf.
+1662743255: Opening ipv4 listen socket on port 1883.
+1662743255: Opening ipv6 listen socket on port 1883.
+1662743255: mosquitto version 2.0.15 running
+1662743256: New connection from 192.168.64.3:38175 on port 1883.
+1662743256: New client connected from 192.168.64.3:38175 as frigate (p2, c1, k60, u'frigate').
+1662745056: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662746857: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662748658: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662750459: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662752260: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662754061: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662755862: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662757663: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662759464: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662761265: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662763066: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662764867: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662766668: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662768469: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662770270: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662772071: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662773872: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662775673: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662777474: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662779275: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662781076: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662782877: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662784678: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662786479: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662788280: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1662790081: Saving in-memory database to /mosquitto/data//mosquitto.db.

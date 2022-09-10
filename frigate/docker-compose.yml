@@ -1,0 +1,44 @@
+version: "3.9"
+services:
+  mqtt:
+    hostname: mqtt
+    container_name: mqtt
+    image: eclipse-mosquitto
+    volumes:
+      - ./mosquitto/logs/:/mosquitto/logs/
+      - ./mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf
+      - ./mosquitto/mqtt-auth.conf:/mosquitto/config/mqtt-auth.conf
+      - ./mosquitto/mqtt-acl.conf:/mosquitto/config/mqtt-acl.conf
+    restart: unless-stopped
+    networks:
+      - frigate
+    ports:
+      - 1883:1883
+  frigate:
+    container_name: frigate
+    hostname: frigate
+    networks:
+      - frigate
+    privileged: true
+    restart: unless-stopped
+    depends_on:
+      - mqtt
+    image: blakeblackshear/frigate:stable-amd64
+    devices:
+      - /dev/bus/usb:/dev/bus/usb
+      - /dev/dri/renderD128
+      - /dev/apex_0
+    ports:
+      - 0.0.0.0:5000:5000
+      - 0.0.0.0:1935:1935
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./frigate/custom-config.yml:/config/config.yml:ro
+      - ./frigate/media:/media/frigate
+      - type: tmpfs
+        target: /tmp/cache
+        tmpfs:
+          size: 1000000000
+
+networks:
+  frigate:
